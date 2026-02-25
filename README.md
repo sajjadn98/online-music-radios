@@ -8,7 +8,7 @@ List of online radios by genre, Enjoy it!
  ##	Rock & Metal
  
  - [Metal Tavern Radio](http://192.99.14.191:8051/stream)
- - [Z-ROCK 99.9](Z-ROCK%2099.9)
+ - [Z-ROCK 99.9](https://cast4.asurahosting.com/proxy/zrock/stream)
  
  ## Trance
  -  [I.D.M. Tranceponder](http://ubuntu.hbr1.com:19800/trance.ogg)
